@@ -1,0 +1,3 @@
+CustomLogger [INFO     ] 2024-12-18T15:11:37.442057+01:00 > Debug message
+CustomLogger [DEBUG    ] 2024-12-18T15:11:37.442057+01:00 > Info message
+CustomLogger [WARNING  ] 2024-12-18T15:11:37.442057+01:00 > Warning message
